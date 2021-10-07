@@ -17,6 +17,8 @@ public class OOC_week3 {
         // TODO code application logic here
         System.out.println("Hello Beka");
         // some code here
+        Humans human1 = new Humans ("Jack", 10);
+        System.out.println(human1);
     }
     
 }
