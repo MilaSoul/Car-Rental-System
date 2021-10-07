@@ -17,6 +17,10 @@ public class OOC_week3 {
         // TODO code application logic here
         System.out.println("Hello Beka");
         // some code here
+        System.out.println("Hello Beka");
+        System.out.println("Hello Beka");
+        System.out.println("Hello Beka");
+        System.out.println("Hello Beka");
     }
     
 }
