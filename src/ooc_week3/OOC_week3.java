@@ -19,6 +19,7 @@ public class OOC_week3 {
         // some code here
         Humans human1 = new Humans ("Jack", 10);
         System.out.println(human1);
+
     }
     
 }
