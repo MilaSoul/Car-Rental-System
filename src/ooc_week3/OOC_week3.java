@@ -16,7 +16,7 @@ public class OOC_week3 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Beka");
-        
+        // some code here
     }
     
 }
